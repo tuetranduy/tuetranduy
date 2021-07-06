@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tuetranduy
+- 👀 I’m interested in coding and automated everythings
+- 🌱 I’m currently learning to be an automation architecture
+- 📫 You can reach me at: tue1996@gmail.com
