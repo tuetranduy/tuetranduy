@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tuetranduy
-- 👀 I’m interested in coding and automated everythings
-- 🌱 I’m currently learning to be an automation architecture
-- 📫 You can reach me at: tue1996@gmail.com
+- 👀 I’m interested in coding, automation testing and DevOps
+- 🌱 I’m currently learning to be an automation QA architecture
+- 📫 You can reach me at: tue1996@gmail.com or https://www.linkedin.com/in/tuetranduy/
